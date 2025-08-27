@@ -1,3 +1,13 @@
+
+## 👥 Contributors
+
+This project was developed as part of a team effort.  
+Special thanks to the following contributors:
+
+- Manuga
+- [shirantha dissanayaka](https://github.com/shiranthaDS)
+- Angeli
+- Aloka
 # Online Fashion Store
 
 <!-- Badges -->
