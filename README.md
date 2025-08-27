@@ -1,5 +1,15 @@
 # Online Fashion Store
 
+<!-- Badges -->
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/3hal0n/Online-fashion-store)
+![Issues](https://img.shields.io/github/issues/3hal0n/Online-fashion-store)
+![Stars](https://img.shields.io/github/stars/3hal0n/Online-fashion-store?style=social)
+![Forks](https://img.shields.io/github/forks/3hal0n/Online-fashion-store?style=social)
+
+Welcome to the **Online Fashion Store** project! This repository contains the source code and assets for a web-based fashion store, including user authentication, product browsing, cart management, billing, reviews, and more.
+# Online Fashion Store
+
 Welcome to the **Online Fashion Store** project! This repository contains the source code and assets for a web-based fashion store, including user authentication, product browsing, cart management, billing, reviews, and more.
 
 ## Features
@@ -36,5 +46,5 @@ Welcome to the **Online Fashion Store** project! This repository contains the so
 5. Access the site via your local server.
 
 ## License
-This project is for educational purposes.
+This project is licensed under the [MIT License](LICENSE).
 

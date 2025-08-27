@@ -50,8 +50,8 @@
   
        <div class="main-text">
                    <br>
-                   <br><h5>new Arrivel </h5>
-                   <h1>new Collaction </h1>
+                   <br><h5>new Arrival </h5>
+                   <h1>new Collection </h1>
                    <p> There are nothing like trend </p>
                    <a href="index1.php" class="main-btn" >SHOP NOW<i class='bx bx-right-arrow-alt'></i></a>
         
